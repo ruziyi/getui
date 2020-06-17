@@ -1,4 +1,4 @@
-module github.com/cyrnicolase/getui
+module github.com/ruziyi/getui
 
 go 1.14
 
